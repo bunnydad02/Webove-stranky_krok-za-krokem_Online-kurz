@@ -1,0 +1,27 @@
+body {
+	font-family: Poppins;
+	font-size: 14px;
+	color: #414042;
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	color: #0a294b;
+}
+
+.centrovany {
+	text-align:center;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(fonty/Poppins-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: Poppins;
+    src: url(fonty/Poppins-ExtraBold.ttf);
+    font-weight: bold;
+}
